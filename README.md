@@ -1,0 +1,2 @@
+# Betty
+Introduction to C
